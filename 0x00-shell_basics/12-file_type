@@ -1,2 +1,2 @@
 #!/bin/bash
-touch -c /tmp/iamafile
+echo iamafile
