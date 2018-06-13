@@ -1,2 +1,2 @@
 #!/bin/bash
-awk iamafile /tmp/iamafile
+awk 'iamafile' /tmp/iamafile
