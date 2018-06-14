@@ -1,2 +1,2 @@
 0 string HOLBERTON
-!:mime-type -m holberton.mgc *
+!:mime holberton.mgc *
