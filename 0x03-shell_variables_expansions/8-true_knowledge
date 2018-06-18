@@ -1,2 +1,2 @@
 #!/bin/bash
-TRUEKNOWLEDGE=$(128+1209)
+echo TRUEKNOWLEDGE=$(+128)
