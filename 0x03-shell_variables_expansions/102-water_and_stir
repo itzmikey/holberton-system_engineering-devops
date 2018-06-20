@@ -1,2 +1,2 @@
 #!/bin/bash
-printf $(($WATER |tr water 01234 + $STIR |tr stir. 01234 ))|tr behlnort 01234567
+printf $(($WATER + $STIR))|tr 'water' 01234|tr 'stir.' '01234' |tr 'behlnort' '01234567'
